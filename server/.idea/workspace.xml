@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea692297-31bd-49e6-b442-ae9c593d4c82" name="Default Changelist" comment="Order test added">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cz/cvut/fit/tvj/eshop/api/controller/CustomerController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/cz/cvut/fit/tvj/eshop/api/controller/OrderControllerTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/cz/cvut/fit/tvj/eshop/api/controller/ProductControllerTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/cz/cvut/fit/tvj/eshop/api/controller/CustomerControllerTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2034CCfLLCo3Wyjdj2NuGYa4zUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kubar\IdeaProjects\BI-TJV\eshop" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cz.cvut.fit.tvj.eshop.api.converter" />
+      <recent name="cz.cvut.fit.tvj.eshop.domain" />
+      <recent name="cz.cvut.fit.tvj.eshop.dao" />
+      <recent name="cz.cvut.fit.tvj.eshop.api.controller" />
+      <recent name="cz.cvut.fit.tvj.eshop.business" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 2,&#10;  &quot;username&quot; : &quot;kasenx&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/customers/1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/customers/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/orders/1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/customers/1/orders" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;customer&quot; : {&#10;    &quot;id&quot; : 1,&#10;    &quot;username&quot; : &quot;janecja9&quot;&#10;  },&#10;  &quot;created&quot; : &quot;2021-11-03T14:54:00.&quot;,&#10;  &quot;products&quot; : []&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/products" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 2,&#10;  &quot;name&quot; : &quot;Xiaomi&quot;,&#10;  &quot;price&quot; : 4999&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/products" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;name&quot; : &quot;iPhone 12 mini&quot;,&#10;  &quot;price&quot; : 17.999&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;username&quot; : &quot;janecja9&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/orders/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/orders/1/products" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 2,&#10;  &quot;name&quot; : &quot;Xiaomi&quot;,&#10;  &quot;price&quot; : 4999&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/orders/1/products" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;name&quot; : &quot;iPhone 12 mini&quot;,&#10;  &quot;price&quot; : 17.999&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/products/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;username&quot; : &quot;janecja9&quot;,&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080/customers/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/products/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/secured/customers" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;username&quot; : &quot;janecja9&quot;,&#10;  &quot;lastLogin&quot; : &quot;2007-12-03T10:15:30&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 2,&#10;  &quot;username&quot; : &quot;kasenx&quot;,&#10;  &quot;lastLogin&quot; : &quot;2021-11-03T14:54:00&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;customer&quot; : {&#10;    &quot;id&quot; : 1,&#10;    &quot;username&quot; : &quot;janecja9&quot;,&#10;    &quot;lastLogin&quot; : &quot;2007-12-03T10:15:30&quot;&#10;  },&#10;  &quot;created&quot; : &quot;2021-11-03T14:54:00.&quot;,&#10;  &quot;products&quot; : []&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;customer&quot; : 1,&#10;  &quot;created&quot; : &quot;2021-11-03T14:54:00.&quot;,&#10;  &quot;products&quot; : []&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;username&quot; : &quot;janecja9&quot;,&#10;  &quot;lastLogin&quot; : &quot;2007-12-03T10:15:30.&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/orders" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;customer&quot; : 1,&#10;  &quot;created&quot; : &quot;2021-11-03T14:54:00.&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/products" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1, &#10;  &quot;name&quot; : &quot;iPhone 12 mini&quot;,&#10;  &quot;price&quot; : 17.999&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 2,&#10;  &quot;username&quot; : &quot;kasenx&quot;,&#10;  &quot;lastLogin&quot; : &quot;2021-11-03T14:54:00.&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 2,&#10;  &quot;username&quot; : &quot;kasenx&quot;,&#10;  &quot;lastLogin&quot; : &quot;2021-11-14:54:00.&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/customers" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot; : 1,&#10;  &quot;username&quot; : &quot;janecja9&quot;,&#10;  &quot;lastLogin&quot; : &quot;2021-11-02&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.server [test]">
+    <configuration name="CustomerConverterTest.fromModels" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cz.cvut.fit.tvj.eshop.api.converter.CustomerConverterTest.fromModels&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerConverterTest.toModel" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cz.cvut.fit.tvj.eshop.api.converter.CustomerConverterTest.toModel&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerConverterTest.toModels" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cz.cvut.fit.tvj.eshop.api.converter.CustomerConverterTest.toModels&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderTest.removeProduct" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cz.cvut.fit.tvj.eshop.domain.OrderTest.removeProduct&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="server [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cz.cvut.fit.tvj.eshop.EshopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.server [test]" />
+      <item itemvalue="Gradle.OrderTest.removeProduct" />
+      <item itemvalue="Gradle.CustomerConverterTest.toModel" />
+      <item itemvalue="Gradle.CustomerConverterTest.toModels" />
+      <item itemvalue="Gradle.CustomerConverterTest.fromModels" />
+      <item itemvalue="Spring Boot.EshopApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.server [test]" />
+        <item itemvalue="Gradle.CustomerConverterTest.fromModels" />
+        <item itemvalue="Gradle.CustomerConverterTest.toModels" />
+        <item itemvalue="Gradle.CustomerConverterTest.toModel" />
+        <item itemvalue="Gradle.OrderTest.removeProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea692297-31bd-49e6-b442-ae9c593d4c82" name="Default Changelist" comment="" />
+      <created>1635259808597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635259808597</updated>
+      <workItem from="1635259809925" duration="13430000" />
+      <workItem from="1635278891252" duration="1935000" />
+      <workItem from="1635341420999" duration="1259000" />
+      <workItem from="1635352541571" duration="5540000" />
+      <workItem from="1635666603875" duration="9437000" />
+      <workItem from="1635705959220" duration="2067000" />
+      <workItem from="1635783892861" duration="3586000" />
+      <workItem from="1635792001189" duration="1291000" />
+      <workItem from="1635871422994" duration="8332000" />
+      <workItem from="1635944974370" duration="4251000" />
+      <workItem from="1636104207281" duration="1066000" />
+      <workItem from="1636313638458" duration="811000" />
+      <workItem from="1636314478424" duration="1465000" />
+      <workItem from="1636407018251" duration="2019000" />
+      <workItem from="1636496551962" duration="1183000" />
+      <workItem from="1636830797797" duration="6000" />
+      <workItem from="1636879631701" duration="2030000" />
+      <workItem from="1636881696107" duration="164000" />
+      <workItem from="1636881882616" duration="906000" />
+      <workItem from="1636969098872" duration="280000" />
+      <workItem from="1636969518843" duration="448000" />
+      <workItem from="1636969988596" duration="3786000" />
+      <workItem from="1637843096162" duration="2056000" />
+      <workItem from="1637845458078" duration="194000" />
+      <workItem from="1637845673466" duration="526000" />
+      <workItem from="1637846320110" duration="23000" />
+      <workItem from="1637846363318" duration="215000" />
+      <workItem from="1637846660873" duration="11092000" />
+      <workItem from="1637873027188" duration="2234000" />
+      <workItem from="1637937230536" duration="13545000" />
+      <workItem from="1637955907617" duration="703000" />
+      <workItem from="1637958217055" duration="953000" />
+      <workItem from="1638434455808" duration="1964000" />
+      <workItem from="1638695063500" duration="12133000" />
+      <workItem from="1638724308772" duration="1528000" />
+      <workItem from="1639126920878" duration="4472000" />
+      <workItem from="1639160307498" duration="3168000" />
+      <workItem from="1639167965192" duration="1979000" />
+      <workItem from="1639209337518" duration="4683000" />
+      <workItem from="1640001983666" duration="595000" />
+      <workItem from="1640075435085" duration="7507000" />
+      <workItem from="1640426277678" duration="69000" />
+      <workItem from="1640444017172" duration="5239000" />
+      <workItem from="1640952107878" duration="7194000" />
+      <workItem from="1641893911125" duration="58000" />
+      <workItem from="1641894085806" duration="46000" />
+      <workItem from="1641894302362" duration="401000" />
+      <workItem from="1641972270571" duration="6528000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1635263108143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635263108143</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Gitlab test.">
+      <created>1635263393300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635263393300</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Gitlab test successful.">
+      <created>1635263427677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635263427677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit.">
+      <created>1636409135239</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636409135239</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Entities preparation for database addition">
+      <created>1636971628956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636971628956</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added jpa repositories">
+      <created>1636972496845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636972496845</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed project structure">
+      <created>1636972642581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636972642581</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Services are now using JPA">
+      <created>1636973505422</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636973505422</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added support for postgres database">
+      <created>1637944792913</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637944792913</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Examples edit">
+      <created>1637944832279</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637944832279</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Controllers PUT fix">
+      <created>1637944860905</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637944860905</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Repositories marked as @Repository">
+      <created>1637944972837</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637944972837</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Exists method fix">
+      <created>1637944991427</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637944991427</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Dockerfile and docker-compose added">
+      <created>1637945009997</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637945009997</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Optimized imports">
+      <created>1637945267293</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1637945267293</updated>
+    </task>
+    <task id="LOCAL-00016" summary="EntityDoesNotExist and EntityAlreadyExists merged into EntityStateException">
+      <created>1637946987129</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637946987129</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Http code fix">
+      <created>1637947508105</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637947508105</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding products to order fix">
+      <created>1637947520779</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1637947520779</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fixed finding all orders by customer">
+      <created>1637948585142</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1637948585142</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Username has to be unique now">
+      <created>1637955781123</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637955781123</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Edited examples">
+      <created>1637955792368</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1637955792368</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Customer update fix">
+      <created>1637956384969</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1637956384969</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added REST API temporary documentation">
+      <created>1637959024739</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1637959024739</updated>
+    </task>
+    <task id="LOCAL-00024" summary="README html fix">
+      <created>1637959124382</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1637959124382</updated>
+    </task>
+    <task id="LOCAL-00025" summary="JsonView fix">
+      <created>1638435064417</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435064417</updated>
+    </task>
+    <task id="LOCAL-00026" summary="examples update">
+      <created>1638435071292</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435071292</updated>
+    </task>
+    <task id="LOCAL-00027" summary="log removed">
+      <created>1638435183599</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435183599</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added services tests">
+      <created>1638700856263</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1638700856263</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added in-memory database for testing">
+      <created>1638708692109</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1638708692109</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added tests for repositories">
+      <created>1638709797004</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1638709797004</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added .idea/ to gitignore">
+      <created>1639169004400</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1639169004400</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Revert &quot;Added .idea/ to gitignore&quot;">
+      <created>1639169075901</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1639169075901</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added customer controller tests">
+      <created>1640077332747</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1640077332747</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Another controllers tests added">
+      <created>1640077916703</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1640077916703</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Order controller tests">
+      <created>1640080126744</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1640080126744</updated>
+    </task>
+    <task id="LOCAL-00036" summary="group change">
+      <created>1640080142584</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1640080142584</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Convertors tests added">
+      <created>1640082290369</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1640082290369</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Order test added">
+      <created>1640082303568</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1640082303568</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Dockerfile and docker-compose added" />
+    <MESSAGE value="Optimized imports" />
+    <MESSAGE value="EntityDoesNotExist and EntityAlreadyExists merged into EntityStateException" />
+    <MESSAGE value="Http code fix" />
+    <MESSAGE value="Adding products to order fix" />
+    <MESSAGE value="Fixed finding all orders by customer" />
+    <MESSAGE value="Username has to be unique now" />
+    <MESSAGE value="Edited examples" />
+    <MESSAGE value="Customer update fix" />
+    <MESSAGE value="Added REST API temporary documentation" />
+    <MESSAGE value="README html fix" />
+    <MESSAGE value="JsonView fix" />
+    <MESSAGE value="examples update" />
+    <MESSAGE value="log removed" />
+    <MESSAGE value="Added services tests" />
+    <MESSAGE value="Added in-memory database for testing" />
+    <MESSAGE value="Added tests for repositories" />
+    <MESSAGE value="Added .idea/ to gitignore" />
+    <MESSAGE value="Revert &quot;Added .idea/ to gitignore&quot;" />
+    <MESSAGE value="Added customer controller tests" />
+    <MESSAGE value="Another controllers tests added" />
+    <MESSAGE value="Order controller tests" />
+    <MESSAGE value="group change" />
+    <MESSAGE value="Convertors tests added" />
+    <MESSAGE value="Order test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Order test added" />
+  </component>
+</project>

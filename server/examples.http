@@ -1,0 +1,93 @@
+###
+POST http://localhost:8080/customers
+Content-Type: application/json
+
+{
+  "username" : "janecja9"
+}
+
+###
+PUT http://localhost:8080/customers/1
+Content-Type: application/json
+
+{
+  "username" : "janecja10"
+}
+
+###
+POST http://localhost:8080/customers
+Content-Type: application/json
+
+{
+  "username" : "kasenx"
+}
+
+###
+GET http://localhost:8080/customers
+
+###
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+  "name" : "iPhone 12 mini",
+  "price" : 17.999
+}
+
+###
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+  "name" : "Xiaomi",
+  "price" : 4999
+}
+
+###
+PUT http://localhost:8080/products/2
+Content-Type: application/json
+
+{
+  "name" : "Xiaomi",
+  "price" : 3999
+}
+
+###
+POST http://localhost:8080/orders
+Content-Type: application/json
+
+{
+  "customer" : {
+    "id" : 1
+  },
+  "created" : "2021-11-03T14:54:00.",
+  "products" : []
+}
+
+###
+POST http://localhost:8080/orders/1/products
+Content-Type: application/json
+
+{
+  "id" : 1
+}
+
+###
+POST http://localhost:8080/orders/1/products
+Content-Type: application/json
+
+{
+  "id" : 2
+}
+
+###
+GET http://localhost:8080/orders/1
+
+###
+DELETE http://localhost:8080/orders/1/products/1
+
+###
+GET http://localhost:8080/customers/1/orders
+
+###
+GET http://localhost:8080/products

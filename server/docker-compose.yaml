@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: .
+    container_name: eshop_backend
+    ports:
+      - "8080:8080"
+    links:
+      - postgres
+    environment:
+      - "SPRING_DATASOURCE_URL=jdbc:postgresql://eshop_db-postgres/postgres"
+      - "SPRING_DATASOURCE_USERNAME=postgres"
+      - "SPRING_DATASOURCE_PASSWORD=12345"
+  postgres:
+    image: postgres:alpine
+    container_name: eshop_db-postgres
+    environment:
+      POSTGRES_PASSWORD: 12345

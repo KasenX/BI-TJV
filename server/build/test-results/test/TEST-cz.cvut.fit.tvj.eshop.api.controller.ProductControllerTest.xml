@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-01-11T09:48:05" hostname="LAPTOP-9DBF8LC6" time="0.044">
+  <properties/>
+  <testcase name="create()" classname="cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest" time="0.01"/>
+  <testcase name="delete()" classname="cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest" time="0.006"/>
+  <testcase name="update()" classname="cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest" time="0.011"/>
+  <testcase name="all()" classname="cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest" time="0.006"/>
+  <testcase name="one()" classname="cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest" time="0.006"/>
+  <system-out><![CDATA[2022-01-11 10:48:04.956  INFO 15200 --- [    Test worker] .b.t.a.w.s.WebMvcTestContextBootstrapper : Neither @ContextConfiguration nor @ContextHierarchy found for test class [cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest], using SpringBootContextLoader
+2022-01-11 10:48:04.957  INFO 15200 --- [    Test worker] o.s.t.c.support.AbstractContextLoader    : Could not detect default resource locations for test class [cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-01-11 10:48:04.958  INFO 15200 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest]: ProductControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-01-11 10:48:04.962  INFO 15200 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration cz.cvut.fit.tvj.eshop.EshopApplication for test class cz.cvut.fit.tvj.eshop.api.controller.ProductControllerTest
+2022-01-11 10:48:04.963  INFO 15200 --- [    Test worker] .b.t.a.w.s.WebMvcTestContextBootstrapper : Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-01-11 10:48:04.963  INFO 15200 --- [    Test worker] .b.t.a.w.s.WebMvcTestContextBootstrapper : Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@224e6e88, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@70139a81, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@60f9dc7e, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@15e5246, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@503556cb, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3c9e19de, org.springframework.test.context.transaction.TransactionalTestExecutionListener@12aa381f, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6115846e, org.springframework.test.context.event.EventPublishingTestExecutionListener@1bec1589, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@57f0bfc3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@14590fe2, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5922cff3, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@2299d903, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@70c56434, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2c3f43d1]
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.5.6)
+
+2022-01-11 10:48:04.998  INFO 15200 --- [    Test worker] c.c.f.t.e.a.c.ProductControllerTest      : Starting ProductControllerTest using Java 17.0.1 on LAPTOP-9DBF8LC6 with PID 15200 (started by kubar in C:\Users\kubar\IdeaProjects\BI-TJV\server)
+2022-01-11 10:48:04.999  INFO 15200 --- [    Test worker] c.c.f.t.e.a.c.ProductControllerTest      : No active profile set, falling back to default profiles: default
+2022-01-11 10:48:05.430  INFO 15200 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2022-01-11 10:48:05.430  INFO 15200 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2022-01-11 10:48:05.430  INFO 15200 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2022-01-11 10:48:05.444  INFO 15200 --- [    Test worker] c.c.f.t.e.a.c.ProductControllerTest      : Started ProductControllerTest in 0.477 seconds (JVM running for 6.06)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

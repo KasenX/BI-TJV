@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "customer": {
+    "id": 1,
+    "username": "janecja10"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 mini",
+      "price": 17.999
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "customer": {},
+    "products": [
+      {}
+    ]
+  },
+  {
+    "id": 2,
+    "customer": {},
+    "products": []
+  }
+]
